@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_SpawnerIdk.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/DONOTOPENUNDERANYSITUATION/BP_Weener.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_Weener.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/MI_Gold.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XG/HQHW7NUQLESWZ4YNW2D31P.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/SpawnedCube.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/M_Base.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Levels/L_Climb.umap",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_LevelTeleport.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/MI_Purple.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/MI_Glowie.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Levels/L_Tutorial.umap",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/Actions/IA_Sprint.uasset"
+			]
+		}
+	]
+}
