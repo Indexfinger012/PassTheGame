@@ -8,7 +8,6 @@
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_SpawnerIdk.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/DONOTOPENUNDERANYSITUATION/BP_Weener.uasset",
-				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_Weener.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/MI_Gold.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XG/HQHW7NUQLESWZ4YNW2D31P.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
@@ -22,7 +21,17 @@
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Materials/MI_Glowie.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Levels/L_Tutorial.umap",
-				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/Actions/IA_Sprint.uasset"
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/FirstPerson/Input/Actions/IA_Restart.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Levels/L_Tutorial.umap",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Materials/MI_idkman.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Materials/MI_Vantablack.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Levels/L_Climb.umap",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Blueprints/BP_SpawnerIdk.uasset",
+				"C:/Users/gasht/Github/PassTheGame/MyProject5/Content/Blueprints/DONOTOPENUNDERANYSITUATION/BP_Weener.uasset",
+				"C:/Users/gasht/OneDrive/Documents/Unreal Projects/MyProject5/Content/Blueprints/BP_Weener.uasset"
 			]
 		}
 	]
